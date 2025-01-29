@@ -5,9 +5,9 @@
   <a href="https://github.com/keserizzet/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJla2h1YjQ0OGN2cGh2a283cTMyZmYyamJ4ejQxb2Q3MngxYmNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
-
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJla2h1YjQ0OGN2cGh2a283cTMyZmYyamJ4ejQxb2Q3MngxYmNlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"
+![MasterHead] 
+>
 - 👯 I’m looking to collaborate on: Full stack projects, open source contributions.
 - 💬 Ask me about: JavaScript, HTML-CSS, Web Development, PHP, Bootstrap, TailwindCss.
 - 📫 How to reach me: [izzetkeser359@gmail.com]
