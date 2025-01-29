@@ -33,11 +33,13 @@
     <a href="https://programartudo.blogspot.com/2024/05/html-o-que-e-e-qual-sua-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
     <a href="https://programartudo.blogspot.com/2024/05/css-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> 
     <a href="https://programartudo.blogspot.com/2024/05/javascript-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
+    <a href="https://www.vectorlogo.zone/logos/php/" target="_blank"><img loading="lazy" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="40" height="40"/></a>
     <a href="https://programartudo.blogspot.com/2024/09/github-o-que-e-como-funciona-e-como.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a> 
-    <a href="https://www.vectorlogo.zone/logos/php/" target="_blank"><img loading="lazy" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="40" height="40"/></a></div>
-                                                                                                                                                                                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelenayucr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
+  
+    </div>
+                                                                                                                                                                                                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keserizzet&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yelenayucr&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=keserizzet&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
 
 
                                                                                                                                                                                                                                                     
